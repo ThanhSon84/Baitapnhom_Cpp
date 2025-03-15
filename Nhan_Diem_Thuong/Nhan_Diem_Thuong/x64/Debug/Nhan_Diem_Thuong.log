@@ -1,0 +1,177 @@
+﻿  Nhan_Diem_Thuong.cpp
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(125,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(204,17): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(204,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(204,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(204,17): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(208,21): warning C4566: character represented by universal-character-name '\u1EE3' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(208,21): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(208,21): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(208,21): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(216,21): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(220,21): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(220,21): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(220,21): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(220,21): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(220,21): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(220,21): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(220,21): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(227,46): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(227,46): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(257,25): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(257,25): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(257,25): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(261,25): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(261,25): warning C4566: character represented by universal-character-name '\u1EA9' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(265,21): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(265,21): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(265,21): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(274,21): warning C4566: character represented by universal-character-name '\u1EE7' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(274,21): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(278,21): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(278,21): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(278,21): warning C4566: character represented by universal-character-name '\u1ED3' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(278,21): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(289,13): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(289,13): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(289,13): warning C4566: character represented by universal-character-name '\u01B0' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(289,13): warning C4566: character represented by universal-character-name '\u1EDD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(289,13): warning C4566: character represented by universal-character-name '\u1EDB' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(291,13): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(291,13): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(291,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(293,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(293,13): warning C4566: character represented by universal-character-name '\u1EA9' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(300,13): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(300,13): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(300,13): warning C4566: character represented by universal-character-name '\u1EA3' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(304,13): warning C4566: character represented by universal-character-name '\u0110' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(304,13): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(304,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(304,13): warning C4566: character represented by universal-character-name '\u1EC7' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(304,13): warning C4566: character represented by universal-character-name '\u1ED1' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(305,13): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(305,13): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(305,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(307,13): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(307,13): warning C4566: character represented by universal-character-name '\u1EA9' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(312,17): warning C4566: character represented by universal-character-name '\u1EA7' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(312,17): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(312,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(312,17): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\Nhan_Diem_Thuong.cpp(312,17): warning C4566: character represented by universal-character-name '\u1EE5' cannot be represented in the current code page (1252)
+cryptlib.lib(cryptlib.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(cryptlib.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(allocate.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(allocate.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(iterhash.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(iterhash.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(sha.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(sha.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(integer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(integer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(algparam.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(algparam.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(filters.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(filters.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(randpool.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(randpool.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(osrng.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(osrng.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(basecode.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(basecode.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(hex.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(hex.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(misc.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(misc.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(queue.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(queue.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(fips140.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(fips140.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(pch.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(pch.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(cpu.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(cpu.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(sha_simd.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(sha_simd.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(dll.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(dll.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(nbtheory.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(nbtheory.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(asn.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(asn.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(pubkey.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(pubkey.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(mqueue.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(mqueue.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(rijndael.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(rijndael.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(hrtimer.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(hrtimer.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(modes.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(modes.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(gfpcrypt.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(hmac.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(hmac.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(gf2n.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(gf2n.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(ec2n.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(ec2n.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(ecp.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(ecp.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(rng.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(rng.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(primetab.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(primetab.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(rijndael_simd.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(rijndael_simd.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(rdtables.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(rdtables.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+cryptlib.lib(gf2n_simd.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '0' doesn't match value '2' in Nhan_Diem_Thuong.obj
+cryptlib.lib(gf2n_simd.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MT_StaticRelease' doesn't match value 'MTd_StaticDebug' in Nhan_Diem_Thuong.obj
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+Nhan_Diem_Thuong.obj : error LNK2001: unresolved external symbol _calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+libcpmtd.lib(mutex.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol _calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(mutex.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol _free_dbg
+Nhan_Diem_Thuong.obj : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(cin.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: unresolved external symbol _free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(cerr.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+Nhan_Diem_Thuong.obj : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(cin.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: unresolved external symbol _malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2019: unresolved external symbol _CrtDbgReport referenced in function "protected: virtual class std::istreambuf_iterator<char,struct std::char_traits<char> > __cdecl std::time_get<char,class std::istreambuf_iterator<char,struct std::char_traits<char> > >::do_get(class std::istreambuf_iterator<char,struct std::char_traits<char> >,class std::istreambuf_iterator<char,struct std::char_traits<char> >,class std::ios_base &,int &,struct tm *,char,char)const " (?do_get@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@MEBA?AV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@V32@0AEAVios_base@2@AEAHPEAUtm@@DD@Z)
+libcpmtd.lib(thread0.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(locale.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(xtime.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(wlocale.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+Nhan_Diem_Thuong.obj : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(cin.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(cout.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(cerr.obj) : error LNK2001: unresolved external symbol _CrtDbgReport
+libcpmtd.lib(_tolower.obj) : error LNK2019: unresolved external symbol _wcsdup_dbg referenced in function _Getctype
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: unresolved external symbol _wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2019: unresolved external symbol _realloc_dbg referenced in function "private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned __int64)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPEAV123@PEAVfacet@23@_K@Z)
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2019: unresolved external symbol _CrtDbgReportW referenced in function _freea_crt
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: unresolved external symbol _CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: unresolved external symbol _CrtDbgReportW
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Nhan_Diem_Thuong\x64\Debug\Nhan_Diem_Thuong.exe : fatal error LNK1120: 7 unresolved externals
