@@ -1,0 +1,4 @@
+﻿  frmLogin.cpp
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Bouns_Point\Bouns_Points\frmLogin.cpp(7,6): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  frmCreateUser.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Bouns_Points.vcxproj -> D:\LEARN\PITT\C++\Baitapnhom_Cpp\Bouns_Point\Bouns_Points\x64\Debug\Bouns_Points.exe

@@ -1,0 +1,7 @@
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Bouns_Point\Bouns_Points\Bouns_Points\x64\Debug\Bouns_Points.vcxproj.AssemblyReference.cache
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Bouns_Point\Bouns_Points\Bouns_Points\x64\Debug\BounsPoints.frmLogin.resources
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Bouns_Point\Bouns_Points\Bouns_Points\x64\Debug\BounsPoints.frmUserAdmin.resources
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Bouns_Point\Bouns_Points\Bouns_Points\x64\Debug\BounsPoints.frmUserAdmin1.resources
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Bouns_Point\Bouns_Points\Bouns_Points\x64\Debug\Bouns_Points.vcxproj.GenerateResource.cache
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Bouns_Point\Bouns_Points\Bouns_Points\x64\Debug\BounsPoints.frmCreateUser.resources
+D:\LEARN\PITT\C++\Baitapnhom_Cpp\Bouns_Point\Bouns_Points\Bouns_Points\x64\Debug\BounsPoints.frmForgotPassword.resources
